@@ -1,0 +1,12 @@
+{
+  "name": "kbl-game",
+  "version": "1.0.0",
+  "description": "Kaun Banega Lakhpati game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
